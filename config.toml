@@ -7,13 +7,13 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
 # Metadata
 [params]
   author = "Thibaut Jombart & Amrish Baidjoe"
-  description = "Website for the RECON and EAN R for outbreak analytics workshop, Sofia, Bulgaria, 19-20 November 2018"
+  description = "Website for the RECON and EAN R for outbreak analytics workshop, Sofia, Bulgaria, 8-11 October 2018"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/sofia_edit.jpg"
   title = " Introduction into R for surveillance and outbreak analytics"
-  description = "/// Short course on surveillance and outbreak analytics in R organised by RECON and EAN<br>/// Sofia, Bulgaria, SoHo, 7-10 October 2018"
+  description = "/// Short course on surveillance and outbreak analytics in R organised by RECON and EAN<br>/// Sofia, Bulgaria, SoHo, 8-11 October 2018"
 
 # Navigation section
 [params.nav]
@@ -92,7 +92,7 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     weight = 2
     name = "date"
     title = "Date"
-    subtitle = "The event will take place accross four days, Monday the 7th till Wednesday the 10th of October 2018, exact times will be announced closer to the event."
+    subtitle = "The event will take place accross four days, Monday the 7th till Thursday the 11th of October 2018, exact times will be announced closer to the event."
     description = ""
 
   [[params.mission.item]]
