@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://practical-hopper-17f014.netlify.com/"
+baseURL = "https://recon-sofia-2018.netlify.com/"
 languageCode = "en-AU"
 title = "RECON and EAN workshop: Introduction into R for surveillance and outbreak analytics"
 
@@ -189,7 +189,7 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     github = "https://github.com/AmmerB"
     twitter = "https://twitter.com/Ammer_B"
     
-    [[params.team.item]]
+  [[params.team.item]]
     name = "Savina Stoitsova"
     position = "Infectious Disease Epidemiologist, National Centre of Infectious and Parasitic diseases"
     description = "Instigator of this event and EPIET alumni based in Bulgaria, Sofia."
