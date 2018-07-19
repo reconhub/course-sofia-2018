@@ -92,7 +92,7 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     weight = 2
     name = "date"
     title = "Date"
-    subtitle = "The event will take place accross four days, Monday the 19th - and Tuesday the 20th of November 2018, exact times will be announced closer to the event."
+    subtitle = "The event will take place accross four days, Monday the 7th till Wednesday the 10th of October 2018, exact times will be announced closer to the event."
     description = ""
 
   [[params.mission.item]]
@@ -188,12 +188,19 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     img = "images/amrish.jpg"
     github = "https://github.com/AmmerB"
     twitter = "https://twitter.com/Ammer_B"
+    
+    [[params.team.item]]
+    name = "Savina Stoitsova"
+    position = "Infectious Disease Epidemiologist"
+    description = "EPIET alumni based in Bulgaria,National center of infectious and parasitic diseases, Sofia."
+    img = "images/savina.jpg"
+    
 
   [[params.team.item]]
     name = "Lieke van Alphen"
     position = "Molecular Medical Microbiologist, MUMC, NL"
     description = "Providing logistics support on behalf of EAN, EAN treasurer"
-    img = "images/lieke.jpeg"
+    img = "images/lieke.jpg"
 
 #add following members: facilitators, admin support, Chris Barbara
 
