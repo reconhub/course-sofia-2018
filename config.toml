@@ -190,8 +190,8 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     twitter = "https://twitter.com/Ammer_B"
     
     [[params.team.item]]
-    name = "Savina Stoitsova, National Centre of Infectious and Parasitic diseases"
-    position = "Infectious Disease Epidemiologist"
+    name = "Savina Stoitsova"
+    position = "Infectious Disease Epidemiologist, National Centre of Infectious and Parasitic diseases"
     description = "Instigator of this event and EPIET alumni based in Bulgaria, Sofia."
     img = "images/savina.jpg"
     
