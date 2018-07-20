@@ -30,7 +30,8 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
   video = false
   vidlink = ""
   title = "Agenda"
-  description = "<p>This four-day short course, co-organised by the R Epidemics Consortium (<a href='http://www.repidemicsconsortium.org/'>RECON</a>) and the EPIET Alumni Network (<a href='http://epietalumni.net'>EAN</a>), will provide an introduction to surveillance and outbreak analysis using the R software. It will take place at <a href='https://goo.gl/maps/fzk3jivYaB32'>SoHo workspace in Sofia</a> Bulgaria, 7-10 October 2018. Participants will get an introduction and overview of conducting epidemiological analyses in R and gain practical experience of new packages for outbreak analysis developed by <a href='http://www.repidemicsconsortium.org/'>RECON</a>, including descriptive approaches (epicurves), single- and multi-variable analyses (in the context of outbreak investigations) and depending on partipant feedback phylogenetic analyses using R, short-term forecasting or automated sitrep generation. While the course will be pitched at a beginner level, we strongly recommend that participants revise R basics by completing the free introduction session provided on <a href='https://www.datacamp.com/courses/free-introduction-to-r'>Datacamp</a>. Applications should be sent using the providing form (see 'Register' tab above).</p>"  # [[params.services.item]]
+  description = "<p>This four-day short course, co-organised by the R Epidemics Consortium (<a href='http://www.repidemicsconsortium.org/'>RECON</a>) and the EPIET Alumni Network (<a href='http://epietalumni.net'>EAN</a>), will provide an introduction to surveillance and outbreak analysis using the R software. It will take place at <a href='https://goo.gl/maps/fzk3jivYaB32'>SoHo workspace in Sofia</a> Bulgaria, 8-11 October 2018. Participants will get an introduction and overview of conducting epidemiological analyses in R and gain practical experience of new packages for outbreak analysis developed by <a href='http://www.repidemicsconsortium.org/'>RECON</a>, including descriptive approaches (epicurves), single- and multi-variable analyses (in the context of outbreak investigations) and depending on partipant feedback phylogenetic analyses using R, short-term forecasting or automated sitrep generation. While the course will be pitched at a beginner level, we strongly recommend that participants revise R basics by completing the free introduction session provided on <a href='https://www.datacamp.com/courses/free-introduction-to-r'>Datacamp</a>. Applications should be sent using the providing form (see 'Register' tab above).</p>"  
+  # [[params.services.item]]
   #   icon = "icon-present"
   #   title = "Web Development"
   #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
@@ -92,7 +93,7 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
     weight = 2
     name = "date"
     title = "Date"
-    subtitle = "The event will take place accross four days, Monday the 7th till Thursday the 11th of October 2018, exact times will be announced closer to the event."
+    subtitle = "The event will take place accross four days, Monday the 8th till Thursday the 11th of October 2018, exact times will be announced closer to the event."
     description = ""
 
   [[params.mission.item]]
@@ -184,15 +185,15 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
   [[params.team.item]]
     name = "Amrish Baidjoe"
     position = "Research Associate, Imperial College London, UK"
-    description = "Field epidemiologist/microbiologist and coordinator of RECON, president of the EPIET Alumni Network."
+    description = "Field epidemiologist/microbiologist and coordinator of RECON, president of the EPIET Alumni Network"
     img = "images/amrish.jpg"
     github = "https://github.com/AmmerB"
     twitter = "https://twitter.com/Ammer_B"
     
   [[params.team.item]]
     name = "Savina Stoitsova"
-    position = "Infectious Disease Epidemiologist, National Centre of Infectious and Parasitic diseases"
-    description = "Instigator of this event and EPIET alumni based in Bulgaria, Sofia."
+    position = "Infectious Disease Epidemiologist, National Center of Infectious and Parasitic Diseases, Bulgaria"
+    description = "Instigator of this event and EPIET alumni"
     img = "images/savina.jpg"
     
 
