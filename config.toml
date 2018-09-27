@@ -174,24 +174,24 @@ title = "RECON and EAN workshop: Introduction into R for surveillance and outbre
   title = "Organisers"
   description = "Organising members and facilitators"
 
-  [[params.team.item]]
-    name = "Thibaut Jombart"
-    position = "Associate Professor, London School of Hygiene and Tropical Medicine / Imperial College London, UK"
-    description = "Outbreak response analytics and head of RECON.<br>"
-    img = "images/thibaut.jpg"
-    # dribbble = "#"
-    github = "https://github.com/thibautjombart"
-    twitter = "https://twitter.com/TeebzR"
+[[params.team.item]]
+name = "Thibaut Jombart"
+position = "Associate Professor, London School of Hygiene and Tropical Medicine / Imperial College London, UK"
+description = "Outbreak response analytics and head of RECON.<br>"
+img = "images/thibaut.jpg"
+# dribbble = "#"
+github = "https://github.com/thibautjombart"
+twitter = "https://twitter.com/TeebzR"
 
-  [[params.team.item]]
-    name = "Amrish Baidjoe"
-    position = "Research Associate, outbreak consultant, Imperial College London, UK"
-    description = "Field epidemiologist/microbiologist and coordinator of RECON, president of the EPIET Alumni Network"
-    img = "images/amrish.jpg"
-    github = "https://github.com/AmmerB"
-    twitter = "https://twitter.com/Ammer_B"
+[[params.team.item]]
+name = "Amrish Baidjoe"
+position = "Research Associate, outbreak consultant, Imperial College London, UK"
+description = "Field epidemiologist/microbiologist and coordinator of RECON, president of the EPIET Alumni Network"
+img = "images/amrish.jpg"
+github = "https://github.com/AmmerB"
+twitter = "https://twitter.com/Ammer_B"
     
-    [[params.team.item]]
+[[params.team.item]]
 name = "Zhian Kamvar"
 position = "Research Associate, Imperial College London, UK"
 description = "Facilitator - R developer and population geneticist; core developer and trainer for RECON"
@@ -199,26 +199,26 @@ img = "images/zhian.jpg"
 github = "https://github.com/zkamvar"
 twitter = "https://twitter.com/zkamvar"
 
-    [[params.team.item]]
+[[params.team.item]]
 name = "Janetta Skarp"
 position = "Postgraduate student, Imperial College London" 
 description = "Course Facilitator - Infectious disease modelling"
 img = "images/janetta.jpg"
     
-  [[params.team.item]]
-    name = "Savina Stoitsova"
-    position = "Infectious Disease Epidemiologist, National Center of Infectious and Parasitic Diseases, Bulgaria"
-    description = "Instigator of this event and EPIET alumni"
-    img = "images/savina.jpg"
+[[params.team.item]]
+name = "Savina Stoitsova"
+position = "Infectious Disease Epidemiologist, National Center of Infectious and Parasitic Diseases, Bulgaria"
+description = "Instigator of this event and EPIET alumni"
+img = "images/savina.jpg"
     
 
-  [[params.team.item]]
-    name = "Lieke van Alphen"
-    position = "Molecular Medical Microbiologist, MUMC, NL"
-    description = "Providing logistics support on behalf of EAN, EAN treasurer"
-    img = "images/lieke.jpg"
+[[params.team.item]]
+name = "Lieke van Alphen"
+position = "Molecular Medical Microbiologist, MUMC, NL"
+description = "Providing logistics support on behalf of EAN, EAN treasurer"
+img = "images/lieke.jpg"
     
-  [[params.team.item]]
+[[params.team.item]]
 name = "Claire Thomson"
 position = "Administrative support, Imperial College London, UK" 
 description = "Providing logistics support on behalf of Imperial College"
