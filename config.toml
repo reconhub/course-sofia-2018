@@ -199,7 +199,7 @@ img = "images/zhian.jpg"
 github = "https://github.com/zkamvar"
 twitter = "https://twitter.com/zkamvar"
 
-[[params.team.item]]
+    [[params.team.item]]
 name = "Janetta Skarp"
 position = "Postgraduate student, Imperial College London" 
 description = "Course Facilitator - Infectious disease modelling"
@@ -218,7 +218,7 @@ img = "images/janetta.jpg"
     description = "Providing logistics support on behalf of EAN, EAN treasurer"
     img = "images/lieke.jpg"
     
-[[params.team.item]]
+  [[params.team.item]]
 name = "Claire Thomson"
 position = "Administrative support, Imperial College London, UK" 
 description = "Providing logistics support on behalf of Imperial College"
